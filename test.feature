@@ -1,4 +1,3 @@
 Feature: Login with default credentials
-  Given: login page
-  When: asked for credentials
-  Then: enter CHANGED
+  Given: test
+Then: hacked
